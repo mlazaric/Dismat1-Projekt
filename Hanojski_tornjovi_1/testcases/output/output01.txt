@@ -1,0 +1,9 @@
+7
+AAA
+AAC
+ABC
+ABB
+CBB
+CBA
+CCA
+CCC
