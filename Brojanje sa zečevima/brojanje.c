@@ -2,7 +2,7 @@
 
 int main(void) 
 {
-	int n, fibo[100000] = {1, 1}, i;
+	long int n, fibo[100000] = {1, 1}, i;
 	
 	scanf("%d", &n);
 	
@@ -31,6 +31,8 @@ int main(void)
 		/* Prebacimo se na prethodni fibonacijev broj */
 		--i;
 	}
+	
+	printf("\n");
 	
 	return 0;
 }
